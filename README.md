@@ -1,6 +1,7 @@
 # SiteSurf
 
-### A web browser being written in Rust.
+## A web browser being written in Rust.
+
 
 ### Dependencies
 - ### GTK 4.2
