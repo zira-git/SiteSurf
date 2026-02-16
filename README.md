@@ -2,6 +2,7 @@
 
 ## A web browser being written in Rust.
 
+### This will be updated soon when I get GTK working
 
 ### Dependencies
 - ### [GTK 4.2](https://www.gtk.org/)
