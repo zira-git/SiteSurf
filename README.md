@@ -2,20 +2,9 @@
 
 ## A web browser being written in Rust.
 
-### This will be updated soon when I get GTK working
-
-### Dependencies
-- ### [GTK 4.2](https://www.gtk.org/)
-
-
-### Roadmap
-- ### Custom web engine
-- ### Custom web renderer
-- ### Browser configuration
-- ### Browser homepage
-- ### Features
+### Development will start soon.
 
 ### Credits
-- ### [Rust programming language](https://rust-lang.org/)
-- ### [GTK](https://www.gtk.org/)
-- ### [gtk-rs](https://github.com/gtk-rs/gtk4-rs)
+- ### [Rust](https://rust-lang.org/)
+- ### [Tauri](https://v2.tauri.app/)
+- ### [Svelte](https://svelte.dev/)
