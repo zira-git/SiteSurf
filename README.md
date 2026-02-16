@@ -4,7 +4,7 @@
 
 
 ### Dependencies
-- ### GTK 4.2
+- ### [GTK 4.2](https://www.gtk.org/)
 
 
 ### Roadmap
@@ -15,6 +15,6 @@
 - ### Features
 
 ### Credits
-- ### Rust programming language (https://rust-lang.org/)
-- ### GTK (https://www.gtk.org/)
-- ### gtk-rs (https://github.com/gtk-rs/gtk4-rs)
+- ### [Rust programming language](https://rust-lang.org/)
+- ### [GTK](https://www.gtk.org/)
+- ### [gtk-rs](https://github.com/gtk-rs/gtk4-rs)
