@@ -4,7 +4,26 @@
 
 ### Development will start soon.
 
-### Credits
+### Dependencies:
+
+- ### [GTK 4.2](https://www.gtk.org/)
+
+
+### Roadmap:
+
+- ### Custom web engine
+- ### Custom web renderer
+- ### DNS System
+- ### Browser configuration
+- ### Browser homepage
+- ### Features
+
+
+
+### Credits:
+
 - ### [Rust](https://rust-lang.org/)
-- ### [Tauri](https://v2.tauri.app/)
-- ### [Svelte](https://svelte.dev/)
+
+- ### [GTK](https://www.gtk.org/)
+
+- ### [gtk-rs](https://github.com/gtk-rs/gtk4-rs)
