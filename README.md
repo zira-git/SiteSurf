@@ -1,6 +1,6 @@
 # SiteSurf
 
-## A web browser being written in Rust.
+## A web browser being written in C.
 
 ### Development will start soon.
 
@@ -13,17 +13,14 @@
 
 - ### Custom web engine
 - ### Custom web renderer
-- ### DNS System
+- ### DNS System (Cloudflare/NextDNS)
 - ### Browser configuration
 - ### Browser homepage
-- ### Features
-
+- ### More goddamn features
 
 
 ### Credits:
 
-- ### [Rust](https://rust-lang.org/)
+- ### [C](https://www.c-language.org/)
 
 - ### [GTK](https://www.gtk.org/)
-
-- ### [gtk-rs](https://github.com/gtk-rs/gtk4-rs)
