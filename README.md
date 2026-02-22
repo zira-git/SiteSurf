@@ -1,13 +1,8 @@
 # SiteSurf
 
-## A web browser being written in C.
+## A web browser being written in C#.
 
 ### Development will start soon.
-
-### Dependencies:
-
-- ### [GTK 4.2](https://www.gtk.org/)
-
 
 ### Roadmap:
 
@@ -21,6 +16,4 @@
 
 ### Credits:
 
-- ### [C](https://www.c-language.org/)
-
-- ### [GTK](https://www.gtk.org/)
+- ### [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
